@@ -28,9 +28,6 @@ Technical portfolio containing non-proprietary engineering projects focused on R
 /kicad_projects
     Dump of personal KiCad designs and documents
 
-/docs
-    White papers, architecture diagrams, plots, reports, and supporting documentation
-```
 
 ---
 
