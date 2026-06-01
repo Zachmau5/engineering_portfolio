@@ -25,20 +25,8 @@ Technical portfolio containing non-proprietary engineering projects focused on R
 /amsat-ground-station
     Portable SDR-based amateur satellite tracking and ground station system
 
-/dsp-projects
-    FIR/IIR filters, FFT analysis, STM32 DSP implementations, signal processing labs
-
-/fpga-vhdl
-    UART communication systems, timing-control logic, FPGA-based digital designs
-
-/rf-analysis
-    LTSpice simulations, RF subsystem analysis, oscillators, filters, amplifiers
-
-/python-tools
-    Engineering utilities, visualization tools, automation scripts, orbital analysis
-
-/embedded-systems
-    Embedded hardware/software integration and microcontroller development
+/kicad_projects
+    Dump of personal KiCad designs and documents
 
 /docs
     White papers, architecture diagrams, plots, reports, and supporting documentation
@@ -72,21 +60,6 @@ A portable dual-band amateur satellite ground station integrating:
 
 ---
 
-# Engineering Focus
-
-This repository emphasizes practical engineering development and multidisciplinary system integration, including:
-
-- RF subsystem characterization
-- Signal-chain analysis
-- Real-time software architecture
-- Hardware/software integration
-- Control-system implementation
-- DSP algorithm development
-- FPGA-based digital design
-- Embedded Linux environments
-- Engineering simulation and analysis
-
----
 
 # Tools & Technologies
 
